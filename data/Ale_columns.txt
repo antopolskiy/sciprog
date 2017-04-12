@@ -1,0 +1,3 @@
+['id_subj','session','trial','s1_int','s1_dur','s1_seed','inter_stim_delay',
+'s2_int','s2_dur','s2_seed','pre_stim_delay','task_type','rewarded_choice',
+'subj_choice','s1_motor','s2_motor']
